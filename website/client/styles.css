@@ -3,6 +3,32 @@ body {
     color: white;
 }
 
+#Section1 {
+  text-align: center; 
+  font-family: "Helvetica Neue","Segoe UI","Oxygen","Ubuntu","Cantarell","Open Sans",sans-serif;
+}
+#Section2 {
+  text-align: center; 
+  padding-top: 50px; 
+  padding-bottom: 50px;
+  font-family: "Helvetica Neue","Segoe UI","Oxygen","Ubuntu","Cantarell","Open Sans",sans-serif;
+  border-bottom: solid #ffffff; 
+}
+#Section3 {
+  text-align: center; 
+  padding-top: 50px; 
+  padding-bottom: 50px;
+  font-family: "Helvetica Neue","Segoe UI","Oxygen","Ubuntu","Cantarell","Open Sans",sans-serif;
+  border-bottom: solid #ffffff; 
+}
+#Section4 {
+  text-align: center; 
+  padding-top: 50px; 
+  padding-bottom: 250px;
+  font-family: "Helvetica Neue","Segoe UI","Oxygen","Ubuntu","Cantarell","Open Sans",sans-serif;
+
+}
+
 /* Make the image responsive */
 .container img {
     width: 100%;
@@ -12,7 +38,7 @@ body {
   /* Style the button and place it in the middle of the container/image */
   .container .btn {
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
